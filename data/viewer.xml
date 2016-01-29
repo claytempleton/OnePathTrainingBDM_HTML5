@@ -1,0 +1,1295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<presentation width="960" height="540" isRTL="0" preview="0" enableAccessibility="0" defaultSlideDuration="5" start="play" buildNum="11.0.0.133">
+	<presentationTitle>One Path Training BDM_ 01 22 16</presentationTitle>
+	<speakers></speakers>
+	<search url="srchdata.xml"/>
+	<presentationBg url="bg.swf"/>
+	<masters><master url="Master0.swf" id="1" totalFrames="1"><backdrop frameNum="0"/><slidexml><AS3Class className="TL_46e6d8ed0e884c9cae87f2e2ce33b1c4yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master><master url="Master1.swf" id="2" totalFrames="1"><backdrop frameNum="1"/><slidexml><AS3Class className="TL_17592432e6874ad1b7596c12f2b4802fyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master><master url="Master2.swf" id="3" totalFrames="1"><backdrop frameNum="2"/><slidexml><AS3Class className="TL_5456053b37ec4b7f854c4b166539e46byxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master></masters>
+	<layouts><layout url="Layout0.swf" id="1" totalFrames="1"><backdrop frameNum="3" displayBgSp="false"/><slidexml><AS3Class className="TL_dd79c517fc9f42efbb5135d95946e9b0yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout1.swf" id="2" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_554c48d64dab4bc48399eb5fa3bc5d4cyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout2.swf" id="3" totalFrames="1"><backdrop frameNum="4" displayBgSp="true"/><slidexml><AS3Class className="TL_ddc22bb3aaec4cbaaf768c03f505b443yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout3.swf" id="4" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_3f7399612064440c93181038bbb213b9yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout4.swf" id="5" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_fb8c6a0c86994df08af52f91ec4526ceyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout5.swf" id="6" totalFrames="1"><backdrop frameNum="5" displayBgSp="true"/><slidexml><AS3Class className="TL_9cdaee3535cd484abe554665b9d6e637yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout6.swf" id="7" totalFrames="1"><backdrop frameNum="6" displayBgSp="false"/><slidexml><AS3Class className="TL_7e00826839b647d2b0d4eab605688393yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout7.swf" id="8" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_16083521f57b4a3ba2b246020f92a1fcyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout8.swf" id="9" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_2b30dfd5b5cc404ba9c49c149b7ddda0yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout9.swf" id="10" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_e6adf33a61c5465585b8be6c6b543836yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout10.swf" id="11" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_d2f2a90c6c09466c84dcc2c35a6d9d12yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout11.swf" id="12" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_d5d141304004445a8bedede293d5c4ccyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout12.swf" id="13" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_d99440698b0b4e059fa257adf3dc6a56yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout13.swf" id="14" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_88bb29f03cc945a4865f2c100ec6e9a0yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout14.swf" id="15" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_ead03b03f97c470e8da28e97bc31d44fyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout15.swf" id="16" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_b82a10e17c444a59b4b4d2077471f925yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout16.swf" id="17" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_002df07c7ac04fbc8c5972c134d02562yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout17.swf" id="18" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_53dbfc7a3cab4ee9a4a347e878face16yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout18.swf" id="19" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_cbdd59b5f65f417fa9af9a14808014fbyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout19.swf" id="20" totalFrames="1"><backdrop displayBgSp="false"/><slidexml><AS3Class className="TL_1bc2dd64558b432488cb8ad572655d0ayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout></layouts>
+	<slides>
+		<slide id="331" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="18.85" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide0.swf" id="331"/>
+			<backdrop frameNum="7" displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="1" frameNum="0"/>
+			<slidexml><AS3Class className="TL_4cd510cd7c024358905e808b99f54b43yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="1" duration=" 18850">
+				<media url="a24x1.mp3" startMsecs="0" duration="18850" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@One Path@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="1"/>
+		</slide>
+		<slide id="398" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="34.13" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide1.swf" id="398"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_534be3ca338149c4b26867221f1c337cyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="2" duration=" 34130">
+				<media url="a24x2.mp3" startMsecs="0" duration="34130" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Table of Contents@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Thank you for taking&lt;/span&gt;&lt;span &gt; the time to join our training again.  Welcome to One Path 101. The purpose of this session is to train our team on processes that will impact our day to day.  While the program is designed to simplify the partner experience it has now expanded if you will the operational process.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Today we will cover an overview of the program, what is in and out of scope, eclipse, dart, icomp, and idev changes, and price parity.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;In this training it kind of builds to where you get foundation first.  Applied next and live last.  We are going to build up regarding the information from foundation to live.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="2"/>
+		</slide>
+		<slide id="444" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="75.61" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide2.swf" id="444"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_ace3924e36fe462a9d143557dbf5ea1fyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="3" duration=" 75610">
+				<media url="a24x3.mp3" startMsecs="0" duration="75610" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@One Path Terms@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;So lets jump right in: Hopefully each of you joined Brook’s training on Friday and have listened to both the 2 minute snippet and the 12 minute training webinars that have been provided to introduce the program.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;This should be a somewhat familiar slide to you….you have seen it before&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;“Today’s terms”  and “Tomorrow’s terms”.  &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;For the business model Today, Value Indirect, to tomorrow’s term: Channel Factory ( this is for CTO and Enterprise product or shipped from Factory)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;For the business model Today, Indirect/Partner Direct (aka Volume Indirect) , to tomorrow’s term: Channel Stock (this is primarily for BTO or commercial product or ship from Stock)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;For Benefits, we move from SSR and NBO to Solution and Segment for these 2 benefits which will still remain upfront the partner with the benefits will have the pricing advantage and will be referred to as the Lead partners and all others will be the non-lead.  I will break down the benefit qualifiers a little later in the training.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;DMI – Distribution Margin Incentive and is backend compensation for the distributor&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="3"/>
+		</slide>
+		<slide id="389" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="97.2" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide3.swf" id="389"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_ae60f5509e03450d8c538dca426c34c8yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="4" duration=" 97200">
+				<media url="a24x4.mp3" startMsecs="0" duration="97200" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@What are the One Path key improvements…@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Key changes or improvements for partners from a BD perspective with the One Path introduction:  1) we are changing our terminology with 2 new RTM business models (Value/Volume will be replaced with Channel Factory/Channel Stock) models.  2) Both models will be priced to distribution now&lt;/span&gt;&lt;span &gt; allowing&lt;/span&gt;&lt;span &gt; the partners to control their margin.  3) Price protection will now be defined by the partner with benefits&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;and not BD special pricing and that partner will now be known as the LEAD partner.  &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;For Channel Stock deals the benefits applied provides the pricing differentiation.  For&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;Channel Factory&lt;/span&gt;&lt;span &gt; the &lt;/span&gt;&lt;span &gt;benefits again will provide the protection because multiple BDs will now be allowed per opportunity.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="4"/>
+		</slide>
+		<slide id="380" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="103.14" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide4.swf" id="380"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="3" frameNum="0"/>
+			<slidexml><AS3Class className="TL_1e9a43ef3d964efc9102b9c8ef16712ayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="5" duration=" 103140">
+				<media url="a24x5.mp3" startMsecs="0" duration="103140" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@What is the One Path pricing ladder…@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Let’s take a minute to review the One Path Pricing Ladder.  There are 3 components to the engagement model...No Touch, Low Touch, and High Touch.  No Touch is available directly to the channel where there is no HPE involvement which includes Discount Now and Smart buy pricing.  Low Touch pricing comes into play when the partner wants to come in and register for benefits once approved they apply their benefits to their no touch pricing which again is Discount Now and Smart Buy.  High Touch the partner still needs more aggressive pricing so they come back and request &amp;quot;Escalated Pricing“ meaning special pricing in our world today.  &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Discount Now pricing stacked with Solution and Segment benefits is designed to equate to VEP Tier 4 pricing.  There are 3 options for Discount Now which is based on the segment…so there will be a FED DN, SLED DN, and then all others.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;In One Path, a partner can register for benefits and request special pricing at the same time.  It is no longer a serial process.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="5"/>
+		</slide>
+		<slide id="493" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="116.93" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide5.swf" id="493"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_59b46606989e44afbaf217e39ffa5563yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="6" duration=" 116930">
+				<media url="a24x6.mp3" startMsecs="0" duration="116930" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Partner Benefits - Upfront@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;In the earlier slide I mentioned some&lt;/span&gt;&lt;span &gt; new terms or benefits for One Path and I want to break down the definition of those:&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;.  I will start with Segment because it only has 1 requirement which is a kicker to incent the partners to sell into our&lt;/span&gt;&lt;span &gt; Commercial 2, SMB, and SLED/FED accounts they will be eligible for this benefit. Solution Benefit has 3 requirements&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;1)&lt;/span&gt;&lt;span &gt; the partner must be a medal partner….silver, gold, or platinum. 2) partner has to provide documented levels of pre-sales value add activity. 3) TS attach:  we will now &lt;/span&gt;&lt;span &gt;require&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;1:1 TS support be sold with the HW meaning if you are selling 50 servers they have&lt;/span&gt;&lt;span &gt; to &lt;/span&gt;&lt;span &gt;attach 1 u&lt;/span&gt;&lt;span &gt;plifted service for each server&lt;/span&gt;&lt;span &gt;. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Both Benefits are exclusive to one partner per opportunity.  &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Solution and Segment benefit amounts move from % of list to % of net when they go from using Discount Now pricing to BD Special pricing.  &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="6"/>
+		</slide>
+		<slide id="494" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="56.2" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide6.swf" id="494"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="5" frameNum="0"/>
+			<slidexml><AS3Class className="TL_aea5f0e462c4421ca2fa4cc9c61fd99ayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="7" duration=" 56200">
+				<media url="a24x7.mp3" startMsecs="0" duration="56200" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Distributor Margin Incentive (DMI) - Backend @</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;What I previously reviewed were the up front benefits that the partner receives for being the lead partner. &lt;/span&gt;&lt;span &gt;There is an additional distribution benefit applicable with One Path, DMI (Distributor Margin Incentive).  We will factor it into deal financials when we escalate to finance for pricing approval.  DMI is not to be discussed with resellers.  And it's non-negotiable.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;These amounts range from &lt;/span&gt;&lt;span &gt; .5 – 3% of net&lt;/span&gt;&lt;span &gt; depending on the PL.  If you want to know how much each PL pulls then those percentages can be found in the playground of the iComp.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Quick recap – frontend benefits are for the reseller and backend is to the distributor.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="7"/>
+		</slide>
+		<slide id="390" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="66.59" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide7.swf" id="390"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="6" frameNum="0"/>
+			<slidexml><AS3Class className="TL_96c4d13e0e334097b9443bc6472d70d1yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="8" duration=" 66590">
+				<media url="a24x8.mp3" startMsecs="0" duration="66590" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@How does Value pricing change?@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;How does Value pricing change?  Well today current state 1&lt;/span&gt;&lt;span &gt;st&lt;/span&gt;&lt;span &gt; response pricing is VEP plus NBO.  Future state will be discount now with solution and segment benefit.  &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Current state for Escalated pricing is a value big deal plus NBO&lt;/span&gt;&lt;span &gt; and future state will be special pricing with solution and segment benefit.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;To call out a few highlights &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Value Indirect will now be called Channel Factory&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;There can be multiple deals for the same opportunity meaning 1 deal for the Lead partner and 1 or more non-lead partner deals.  &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Minimum deal size is $75K list ($25K for HPN).  &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Pricing is to distribution as we no longer set the end user price.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="8"/>
+		</slide>
+		<slide id="391" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="86.24" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide8.swf" id="391"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="6" frameNum="0"/>
+			<slidexml><AS3Class className="TL_3899dc52b6574d0785ad82c32a4daa40yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="9" duration=" 86240">
+				<media url="a24x9.mp3" startMsecs="0" duration="86240" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@How does Volume pricing change?@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;How does Volume pricing change?  Well today current state 1&lt;/span&gt;&lt;span &gt;st&lt;/span&gt;&lt;span &gt; response pricing is Discount&lt;/span&gt;&lt;span &gt; Now&lt;/span&gt;&lt;span &gt; plus NBO&amp;amp;SSR.  Future state will be Discount Now with solution and segment benefit.  &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Current state for Escalated pricing is a volume big deal plus NBO and SSR&lt;/span&gt;&lt;span &gt; and future state will be special pricing or escalated pricing with solution and segment benefit.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Key highlights&lt;/span&gt;&lt;span &gt; for volume changes:&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Volume Indirect will now be called Channel Stock.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Minimum deal size is $75K list ($25K for HPN). &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;The pricing advantage will be to the partner that holds the benefits for that opportunity. &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="9"/>
+		</slide>
+		<slide id="430" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="4.41" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide9.swf" id="430"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="7" frameNum="0"/>
+			<slidexml><AS3Class className="TL_ae0507a7d24245d3a40a9dd138554ba1yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="10" duration=" 4410">
+				<media url="a24x10.mp3" startMsecs="0" duration="4410" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@In Scope / Out of Scope@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Before&lt;/span&gt;&lt;span &gt; we move on to In Scope/Out of Scope do you have any questions?&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="10"/>
+		</slide>
+		<slide id="387" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="28.84" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide10.swf" id="387"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="8" frameNum="0"/>
+			<slidexml><AS3Class className="TL_dbb22973dd4f4da09ca317a6d62759ffyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="11" duration=" 28840">
+				<media url="a24x11.mp3" startMsecs="0" duration="28840" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@In Scope@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;This slide is more of a point of reference slide that calls out what accounts are In Scope-SMB, Commercial, SLED, and FED deals.  Export (IBC) deals are also in scope.  While global accounts are in  scope, only regional deals for global accounts are in scope.  Pam&lt;/span&gt;&lt;span &gt; will&lt;/span&gt;&lt;span &gt; go into more detail on global in a minute.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="11"/>
+		</slide>
+		<slide id="406" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="32.18" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide11.swf" id="406"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="8" frameNum="0"/>
+			<slidexml><AS3Class className="TL_014f0141aacd4d3b92997e5ef3d3dd7eyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="12" duration=" 32180">
+				<media url="a24x12.mp3" startMsecs="0" duration="32180" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Out of Scope: Non-Standard Deals@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Here is what&lt;/span&gt;&lt;span &gt; we are considering &lt;/span&gt;&lt;span &gt;Out of Scope for One Path:  so PIPP, CSATs, OEM and Market Place deals,&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;Global Outbound just to call out a few will continue to use the existing Value Indirect/Volume Indirect Eclipse models.  Pam will now go into detail on the changes for global.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="12"/>
+		</slide>
+		<slide id="495" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="117.78" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide12.swf" id="495"/>
+			<backdrop displayBgSp="true"/>
+			<master id="2" frameNum="0"/>
+			<layout id="4" frameNum="0"/>
+			<slidexml><AS3Class className="TL_9e13dc451fe5421da31d747fe080ccdfyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="13" duration=" 117780">
+				<media url="a24x13.mp3" startMsecs="0" duration="117780" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@What’s changing for Global?@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;We&lt;/span&gt;&lt;span &gt; are breaking global into 3 categories:  business as usual as it is today…no change no solution/segment benefits&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Global inbound: we will be using one path factory/stock deals…..however there will be no benefits  this should simplify the replication of creating the deals&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Global account:  could be outbound but have a local regional deal…..us regional deal we will use the one path terms and benefits can be approved&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="13"/>
+		</slide>
+		<slide id="368" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="33.85" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide13.swf" id="368"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="7" frameNum="0"/>
+			<slidexml><AS3Class className="TL_70b316a4aabd44a29ecf1951decc6593yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="14" duration=" 33850">
+				<media url="a24x14.mp3" startMsecs="0" duration="33850" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Eclipse Changes – Channel Factory@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="14"/>
+		</slide>
+		<slide id="394" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="176.15" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide14.swf" id="394"/>
+			<backdrop displayBgSp="true"/>
+			<master id="3" frameNum="0"/>
+			<layout id="9" frameNum="0"/>
+			<slidexml><AS3Class className="TL_063a1442e92d4596b2205729e4e9427fyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="15" duration=" 176150">
+				<media url="a24x15.mp3" startMsecs="0" duration="176150" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@What are the E2E changes for Business Model impact?@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Key&lt;/span&gt;&lt;span &gt; point – BDMs will have to read the template and understanding who’s the Lead / non  Lead partner, the various benefits and the various deals.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Lead partner is the partner holding benefits.  Non Lead partner will not have benefits.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;We know that Sales, PBM’s and partners may request more aggressive pricing than Typical level.  We’ll discuss this in a few slides.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="15"/>
+		</slide>
+		<slide id="496" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="57.21" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide15.swf" id="496"/>
+			<backdrop displayBgSp="true"/>
+			<master id="3" frameNum="0"/>
+			<layout id="9" frameNum="0"/>
+			<slidexml><AS3Class className="TL_7ee6c78a910647c4b48335f4bf052798yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="16" duration=" 57210">
+				<media url="a24x16.mp3" startMsecs="0" duration="57210" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Factory Pricing Flow (New)@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="16"/>
+		</slide>
+		<slide id="458" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="16.91" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide16.swf" id="458"/>
+			<backdrop displayBgSp="true"/>
+			<master id="3" frameNum="0"/>
+			<layout id="9" frameNum="0"/>
+			<slidexml><AS3Class className="TL_5957321c71ad4b9f913d0036d6ce5a06yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="17" duration=" 16910">
+				<media url="a24x17.mp3" startMsecs="0" duration="16910" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Eclipse Business Model Change – Channel Factory@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="17"/>
+		</slide>
+		<slide id="457" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="90.32" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide17.swf" id="457"/>
+			<backdrop displayBgSp="true"/>
+			<master id="3" frameNum="0"/>
+			<layout id="10" frameNum="0"/>
+			<slidexml><AS3Class className="TL_354ea9f2dab14d378bb41ad049d8281byxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="18" duration=" 90320">
+				<media url="a24x18.mp3" startMsecs="0" duration="90320" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@New Channel Factory Template @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="18"/>
+		</slide>
+		<slide id="401" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="71.7" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide18.swf" id="401"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="11" frameNum="0"/>
+			<slidexml><AS3Class className="TL_7784071712ec4ab0a3e756216b71a791yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="19" duration=" 71700">
+				<media url="a24x19.mp3" startMsecs="0" duration="71700" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Channel Factory Summary@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Key takeaways: highlight each bullet&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="19"/>
+		</slide>
+		<slide id="455" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="307.3" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide19.swf" id="455"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_5e7173aa55694552922ed3d760a3cddeyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="20" duration=" 307300">
+				<media url="a24x20.mp3" startMsecs="0" duration="307300" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@One Path Pricing Example - Factory@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;No&lt;/span&gt;&lt;span &gt; touch/Low touch pricing can be received by any partner, however only the Lead partner gets the benefits. (Solution/Segment)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;As&lt;/span&gt;&lt;span &gt; you can see, only the lead partner receives special pricing and only the lead partner gets benefits.  In this example the lead partner has more aggressive BD pricing:  $10K ($70,000-$60,000) lower than the Non-Lead partner for same config (as Non-Lead partners are approved at Typical level), plus Lead partner gets $7,800 ($5,400+$2,400) in solution and segment benefit.  It’s up to the lead partner whether or not they contribute any of their benefits to hitting the end user price.  In total, Lead partner has better pricing by $17,500. ($70,000-52,200)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Let’s Assume the scenario where Non-Lead partner comes with different config, in this example they get special pricing at $85K (Typical level) and there are no benefits. The difference in BD pricing between Lead and Non-Lead in this example is $25,000 and considering the benefits it’s $32,500.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;The delta between the lead partner and Non-Lead partner BD special pricing ($60,000 vs. $85,000) may cause escalation to the BDM to bring Non-Lead partner pricing closer to lead partner pricing.  Use defined escalation process when/if this arises.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="20"/>
+		</slide>
+		<slide id="447" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="173.82" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide20.swf" id="447"/>
+			<backdrop displayBgSp="true"/>
+			<master id="3" frameNum="0"/>
+			<layout id="12" frameNum="0"/>
+			<slidexml><AS3Class className="TL_b9818f9ca13345359a50c1325b80d605yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="21" duration=" 173820">
+				<media url="a24x21.mp3" startMsecs="0" duration="173820" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Channel Factory – Non-Lead Partner Escalation@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Tracker&lt;/span&gt;&lt;span &gt; will be used for first 60 days – line of sight to number of escalations will help us determine if a process change is needed.  Currently we are not sure how often this will happen and we may need to adjust how often the spreadsheet will need to be updated. &lt;/span&gt;&lt;span &gt;We will be tracking this weekly as the BDM that will be available on the SharePoint&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;For BDM judgement we need to evaluate both the opportunities to make sure the non lead does not get more discounting than the lead.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Request may come from the PBM asking for better pricing, leading to channel conflict, and we need to have sales team confirm that they approve to give better than Typical pricing.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="21"/>
+		</slide>
+		<slide id="399" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="3.9" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide21.swf" id="399"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="7" frameNum="0"/>
+			<slidexml><AS3Class className="TL_603600d556a64d3c817061d482d926a1yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="22" duration=" 3900">
+				<media url="a24x22.mp3" startMsecs="0" duration="3900" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Eclipse Changes – Channel Stock@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="22"/>
+		</slide>
+		<slide id="395" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="93.49" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide22.swf" id="395"/>
+			<backdrop displayBgSp="true"/>
+			<master id="3" frameNum="0"/>
+			<layout id="9" frameNum="0"/>
+			<slidexml><AS3Class className="TL_972e773c6d5c41cfa60e7756bb263c33yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="23" duration=" 93490">
+				<media url="a24x23.mp3" startMsecs="0" duration="93490" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@What are the E2E changes for Business Model impact?@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="23"/>
+		</slide>
+		<slide id="459" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="17.23" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide23.swf" id="459"/>
+			<backdrop displayBgSp="true"/>
+			<master id="3" frameNum="0"/>
+			<layout id="9" frameNum="0"/>
+			<slidexml><AS3Class className="TL_6002e59f4d104b8797b51bfc30d321e5yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="24" duration=" 17230">
+				<media url="a24x24.mp3" startMsecs="0" duration="17230" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Eclipse Business Model Change – Channel Stock@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="24"/>
+		</slide>
+		<slide id="460" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="44.16" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide24.swf" id="460"/>
+			<backdrop displayBgSp="true"/>
+			<master id="3" frameNum="0"/>
+			<layout id="10" frameNum="0"/>
+			<slidexml><AS3Class className="TL_26bd0bb5aa0945f28db2de1de9be54b6yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="25" duration=" 44160">
+				<media url="a24x25.mp3" startMsecs="0" duration="44160" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@New Channel Stock Template @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="25"/>
+		</slide>
+		<slide id="419" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="126.83" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide25.swf" id="419"/>
+			<backdrop displayBgSp="true"/>
+			<master id="3" frameNum="0"/>
+			<layout id="13" frameNum="0"/>
+			<slidexml><AS3Class className="TL_47ca9d0f9a304c31a5f6f0ba465cf1e0yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="26" duration=" 126830">
+				<media url="a24x26.mp3" startMsecs="0" duration="126830" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Stock Deals/Discount Now % compare to Auth Addl%@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="26"/>
+		</slide>
+		<slide id="420" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="73.56" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide26.swf" id="420"/>
+			<backdrop displayBgSp="true"/>
+			<master id="3" frameNum="0"/>
+			<layout id="13" frameNum="0"/>
+			<slidexml><AS3Class className="TL_31a5df7cc720477591d5949d8ffeedadyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="27" duration=" 73560">
+				<media url="a24x27.mp3" startMsecs="0" duration="73560" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Stock Deals/Discount Now % compare to Auth Addl%@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Will give a live example as well.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="27"/>
+		</slide>
+		<slide id="421" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="32.13" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide27.swf" id="421"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="14" frameNum="0"/>
+			<slidexml><AS3Class className="TL_66cd349fe1b043a69ab7702f5d1b9027yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="28" duration=" 32130">
+				<media url="a24x28.mp3" startMsecs="0" duration="32130" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Channel Stock Pricing Flow (New)@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;NEED TO ADJUST&lt;/span&gt;&lt;span &gt; THE FLOW&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="28"/>
+		</slide>
+		<slide id="402" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="89.91" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide28.swf" id="402"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="15" frameNum="0"/>
+			<slidexml><AS3Class className="TL_07001d3864a748af9d3604e52229b397yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="29" duration=" 89910">
+				<media url="a24x29.mp3" startMsecs="0" duration="89910" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Channel Stock Summary@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Call out bullet one!  Very important to break down&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="29"/>
+		</slide>
+		<slide id="456" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="190.96" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide29.swf" id="456"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_30c16389aeaa4623be8988ee1230f476yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="30" duration=" 190960">
+				<media url="a24x30.mp3" startMsecs="0" duration="190960" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@One Path Pricing Example - Stock@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;No&lt;/span&gt;&lt;span &gt; touch/Low touch pricing can be received by any partner, however the Lead partner gets the benefit. (Solution/Segment)&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;As&lt;/span&gt;&lt;span &gt; you can see, if the lead partner requests special pricing, both the lead partner and the non-lead partner receive the SAME special pricing as it’s on the same deal.  The benefits of the lead partner of $7,800 ($5400+$2400) provides the pricing advantage to the lead partner.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="30"/>
+		</slide>
+		<slide id="404" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="13.61" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide30.swf" id="404"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="7" frameNum="0"/>
+			<slidexml><AS3Class className="TL_472948973f5c47779389be4380ed89e7yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="31" duration=" 13610">
+				<media url="a24x31.mp3" startMsecs="0" duration="13610" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Dart, iComp, iDev Changes@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="31"/>
+		</slide>
+		<slide id="440" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="34.69" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide31.swf" id="440"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_499cfbc720bf4b599c862a63dddc2ea9yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="32" duration=" 34690">
+				<media url="a24x32.mp3" startMsecs="0" duration="34690" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@One Path Rate Guidance@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;So before I jump into the dart changes I want to just give you a baseline of the new One Path rates that will be used going forward again a&lt;/span&gt;&lt;span &gt; point of reference slide&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;This shows the high level rates for Discount Now and Solution and Segment benefits when a BD is NOT applied.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="32"/>
+		</slide>
+		<slide id="442" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="47.55" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide32.swf" id="442"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_091d0eed9d9d488d89b9d3cc5555691fyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="33" duration=" 47550">
+				<media url="a24x33.mp3" startMsecs="0" duration="47550" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Benefits Rate Card for Special Pricing @</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;This slide details the Solution and Segment benefit percentages that are applicable when a BD is applied.  The benefit percentages change from a percent off of list to a percent off of net when a partner goes from Discount now to special pricing.   What is important to note here is that Solution benefits are slightly higher for Platinum resellers vs. Non-Platinum resellers.  Segment Benefits remain&lt;/span&gt;&lt;span &gt; constant&lt;/span&gt;&lt;span &gt;.  Later in the presentation we will review the new comments and so&lt;/span&gt;&lt;span &gt; reading the comments will be so important&lt;/span&gt;&lt;span &gt; to understand from PDO because if the partner is Platinum level their&lt;/span&gt;&lt;span &gt; benefits are slightly better and we will need to apply the correct benefit when escalating&lt;/span&gt;&lt;span &gt;.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="33"/>
+		</slide>
+		<slide id="443" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="34.93" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide33.swf" id="443"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="6" frameNum="0"/>
+			<slidexml><AS3Class className="TL_6a2f2349044e4e118bd0da1c37fbd56byxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="34" duration=" 34930">
+				<media url="a24x34.mp3" startMsecs="0" duration="34930" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@OnePath Benefit Levels – PL Details@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;This slide provides the detailed Solution and Segment benefit percentages for Discount Now and &amp;quot;Escalated&amp;quot; (BD Special pricing) by PL.  &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;It's provided so you can answer questions that may come up.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="34"/>
+		</slide>
+		<slide id="403" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="125.94" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide34.swf" id="403"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_f1386544892040538e4f74b59fd0ff66yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="35" duration=" 125940">
+				<media url="a24x35.mp3" startMsecs="0" duration="125940" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Selling Motion Changes in DART@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Now lets get into what we are familiar with DART&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;T&lt;/span&gt;&lt;span &gt;oday when we escalate&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;for&lt;/span&gt;&lt;span &gt; &lt;/span&gt;&lt;span &gt;Value Indirect deal and we take it into&lt;/span&gt;&lt;span &gt; dart the selling motion will show Corp Reseller.  &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;- When escalating both Channel Factory and Channel Stock deals, the BDM must select the selling motion from the dropdown based on the benefits the LEAD partner qualifies for.  Remember, you can only escalate pricing to finance for requests made by the lead partner.  Non-Lead partners can not receive finance escalated pricing.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;I am now going to make a point of reference to a new benefit that I have not previously mentioned.  Cloud Builder:  while it may be a new term to most BDM’s it is not a new benefit Historically, it is used less than 1% of all deals approved and we are not familiar with it.  However, it is being transferred from our old benefits to One Path.  You might not ever see this benefit but keep in mind that it is an eligible benefit and careful when selecting the selling motion in DART.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="35"/>
+		</slide>
+		<slide id="445" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="79.88" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide35.swf" id="445"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_179f393e78f04c259f16c5c4a1d25606yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="36" duration=" 79880">
+				<media url="a24x36.mp3" startMsecs="0" duration="79880" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Selling Motions Answer Key@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;The PDO team will specify the exact benefit in their&lt;/span&gt;&lt;span &gt; comments&lt;/span&gt;&lt;span &gt; and we will have to select that&lt;/span&gt;&lt;span &gt; through DART.  So we had to shorten the benefit names to fit into dart so we created a key to keep us honest.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Also&lt;/span&gt;&lt;span &gt; note there are&lt;/span&gt;&lt;span &gt; multiple&lt;/span&gt;&lt;span &gt; avenues the lead partner can qualify for.  &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Remember Solution benefits differ between Platinum and Non-Platinum partners.  Segment benefit has no differentiation.  This menu represents 2 scenarios for the benefits...Platinum and Non-Platinum.  If this is a platinum partner, you will need to ensure that you select &amp;quot;platsol&amp;quot; in your benefit dropdown options.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="36"/>
+		</slide>
+		<slide id="462" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="141.18" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide36.swf" id="462"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="16" frameNum="0"/>
+			<slidexml><AS3Class className="TL_22dff7e2b51343cd91b64c6229626d03yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="37" duration=" 141180">
+				<media url="a24x37.mp3" startMsecs="0" duration="141180" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;We have a few changes to iComp.  Where you are familiar with seeing Net Price to the Customer we have changed that to Big Deal net price…..again all pricing is to disty.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;We&lt;/span&gt;&lt;span &gt; changed sales incentives % and $ to Channel Benefits % and $.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Here at the bottom where you see the 3 arrows we have replaced the value indirect tab with One Path.  It makes no difference if is it factory or stock you will past the financials under One Path.  Direct stays the same.  And Others will be for opportunities that have the One Path RTM but do not hold benefits.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;The reality is….we will have 2 iComps……this one that you see here and our old one for Value and Volume Indirect deals.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="37"/>
+		</slide>
+		<slide id="463" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="84.7" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide37.swf" id="463"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="16" frameNum="0"/>
+			<slidexml><AS3Class className="TL_d5a472b15133421fa84cff1ea5c5fe55yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="38" duration=" 84700">
+				<media url="a24x38.mp3" startMsecs="0" duration="84700" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@@</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;The changes to note in the iDev&lt;/span&gt;&lt;span &gt; will be the new drop down in the parameter tab that allows you to select the applicable benefit to factor in when running financials.  So if they are a platinum solution and segment partner you use the drop down and select Yes.  Make sure the others have NA.  &lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;span &gt;Now lets move our eyes down a bit to the Executive tab and we have changed the term to channel benefit where previously it showed SSR and NBO.&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="38"/>
+		</slide>
+		<slide id="412" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="10.41" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide38.swf" id="412"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="7" frameNum="0"/>
+			<slidexml><AS3Class className="TL_b3e74b21ee16424b9a3149bab1c097a4yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="39" duration=" 10410">
+				<media url="a24x39.mp3" startMsecs="0" duration="10410" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Price Parity (legacy to new)@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="39"/>
+		</slide>
+		<slide id="427" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="129.28" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide39.swf" id="427"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="17" frameNum="0"/>
+			<slidexml><AS3Class className="TL_7e9b5efc4ac34891babaeb2f1f5c1716yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="40" duration=" 129280">
+				<media url="a24x40.mp3" startMsecs="0" duration="129280" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@How to achieve same net price in new deal compared to legacy@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="40"/>
+		</slide>
+		<slide id="414" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="57.22" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide40.swf" id="414"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="14" frameNum="0"/>
+			<slidexml><AS3Class className="TL_e0c2aba572d6467e95edd82c75795b8byxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="41" duration=" 57220">
+				<media url="a24x41.mp3" startMsecs="0" duration="57220" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Factory Pricing Flow (Transition)@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="41"/>
+		</slide>
+		<slide id="415" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="46.07" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide41.swf" id="415"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="14" frameNum="0"/>
+			<slidexml><AS3Class className="TL_5da30c8365de4a488ad93a6d57bbd12ayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="42" duration=" 46070">
+				<media url="a24x42.mp3" startMsecs="0" duration="46070" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Stock Pricing Flow (Transition)@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="42"/>
+		</slide>
+		<slide id="489" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="33.81" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide42.swf" id="489"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="7" frameNum="0"/>
+			<slidexml><AS3Class className="TL_ea05f8d1f8794c08b80c68ce068e8adbyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="43" duration=" 33810">
+				<media url="a24x43.mp3" startMsecs="0" duration="33810" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Factory cheat sheet@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="43"/>
+		</slide>
+		<slide id="481" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="32.32" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide43.swf" id="481"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="14" frameNum="0"/>
+			<slidexml><AS3Class className="TL_4a4f7a5fb245490fbe53edf912a30becyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="44" duration=" 32320">
+				<media url="a24x44.mp3" startMsecs="0" duration="32320" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Channel Factory cheat sheet@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="44"/>
+		</slide>
+		<slide id="482" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="39.75" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide44.swf" id="482"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="18" frameNum="0"/>
+			<slidexml><AS3Class className="TL_eff5d3a4aa7b40a5b870e436eea32b4dyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="45" duration=" 39750">
+				<media url="a24x45.mp3" startMsecs="0" duration="39750" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@How to populate Channel Factory cheat sheet	@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="45"/>
+		</slide>
+		<slide id="483" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="7.8" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide45.swf" id="483"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="18" frameNum="0"/>
+			<slidexml><AS3Class className="TL_4bf67179a1ef4e24bd6d41470fc7908eyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="46" duration=" 7800">
+				<media url="a24x46.mp3" startMsecs="0" duration="7800" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@How to populate Channel Factory cheat sheet – cont’d	@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="46"/>
+		</slide>
+		<slide id="484" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="44.96" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide46.swf" id="484"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_608b1991a9214c28a0d46b8cc699c704yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="47" duration=" 44960">
+				<media url="a24x47.mp3" startMsecs="0" duration="44960" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@How to populate Channel Factory cheat sheet – cont’d@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="47"/>
+		</slide>
+		<slide id="485" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="12.63" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide47.swf" id="485"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="18" frameNum="0"/>
+			<slidexml><AS3Class className="TL_6ae5e0f2d9b245e28214940357ef6242yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="48" duration=" 12630">
+				<media url="a24x48.mp3" startMsecs="0" duration="12630" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@How to populate Channel Factory cheat sheet – cont’d	@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="48"/>
+		</slide>
+		<slide id="486" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="15.97" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide48.swf" id="486"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="18" frameNum="0"/>
+			<slidexml><AS3Class className="TL_eb8a4059bd30409695d0e040c965e426yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="49" duration=" 15970">
+				<media url="a24x49.mp3" startMsecs="0" duration="15970" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@How to populate Channel Factory cheat sheet – cont’d	@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="49"/>
+		</slide>
+		<slide id="487" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="167.19" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide49.swf" id="487"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="18" frameNum="0"/>
+			<slidexml><AS3Class className="TL_d529e48c7b30480dbbe4978a126f1518yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="50" duration=" 167190">
+				<media url="a24x50.mp3" startMsecs="0" duration="167190" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@How to populate Channel Factory cheat sheet – cont’d	@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="50"/>
+		</slide>
+		<slide id="488" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="41.61" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide50.swf" id="488"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="7" frameNum="0"/>
+			<slidexml><AS3Class className="TL_1b9fdd04b44c4db8b289785315f14c97yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="51" duration=" 41610">
+				<media url="a24x51.mp3" startMsecs="0" duration="41610" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Stock cheat sheet@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="51"/>
+		</slide>
+		<slide id="476" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="47.92" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide51.swf" id="476"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="14" frameNum="0"/>
+			<slidexml><AS3Class className="TL_bee57cea7a5a4334890a6ee152662f24yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="52" duration=" 47920">
+				<media url="a24x52.mp3" startMsecs="0" duration="47920" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Channel Stock cheat sheet@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="52"/>
+		</slide>
+		<slide id="477" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="20.81" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide52.swf" id="477"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="18" frameNum="0"/>
+			<slidexml><AS3Class className="TL_de4792a49fcc41c490e3041a3404e62cyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="53" duration=" 20810">
+				<media url="a24x53.mp3" startMsecs="0" duration="20810" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@How to populate Channel Stock cheat sheet	@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="53"/>
+		</slide>
+		<slide id="478" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="57.95" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide53.swf" id="478"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="18" frameNum="0"/>
+			<slidexml><AS3Class className="TL_86eb0bd4f4694865b529997b8c59f5bbyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="54" duration=" 57950">
+				<media url="a24x54.mp3" startMsecs="0" duration="57950" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@How to populate Channel Stock cheat sheet – cont’d	@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="54"/>
+		</slide>
+		<slide id="479" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="15.61" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide54.swf" id="479"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="18" frameNum="0"/>
+			<slidexml><AS3Class className="TL_0bc5c9396eaf40a9998c29d5871ec600yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="55" duration=" 15610">
+				<media url="a24x55.mp3" startMsecs="0" duration="15610" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@How to populate Channel Stock cheat sheet – cont’d	@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="55"/>
+		</slide>
+		<slide id="480" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="65.76" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide55.swf" id="480"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="18" frameNum="0"/>
+			<slidexml><AS3Class className="TL_67f5b07d03ac4d57975fe668c3256589yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="56" duration=" 65760">
+				<media url="a24x56.mp3" startMsecs="0" duration="65760" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@How to populate Channel Stock cheat sheet – cont’d	@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="56"/>
+		</slide>
+		<slide id="490" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="64.64" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide56.swf" id="490"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="18" frameNum="0"/>
+			<slidexml><AS3Class className="TL_d648c8d8b7ff4db4a9e41fa20b75aed7yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="57" duration=" 64640">
+				<media url="a24x57.mp3" startMsecs="0" duration="64640" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@How to populate Channel Stock cheat sheet – cont’d	@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="57"/>
+		</slide>
+		<slide id="491" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="11.89" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide57.swf" id="491"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="18" frameNum="0"/>
+			<slidexml><AS3Class className="TL_79fad39f110c43349ece0fbe8099c829yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="58" duration=" 11890">
+				<media url="a24x58.mp3" startMsecs="0" duration="11890" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@How to populate Channel Stock cheat sheet – cont’d	@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="58"/>
+		</slide>
+		<slide id="492" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="199.13" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide58.swf" id="492"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="18" frameNum="0"/>
+			<slidexml><AS3Class className="TL_088f8bc6f0fb42b0a888781033023dd0yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="59" duration=" 199130">
+				<media url="a24x59.mp3" startMsecs="0" duration="199130" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@How to populate Channel Stock cheat sheet – cont’d	@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="59"/>
+		</slide>
+		<slide id="474" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="12.26" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide59.swf" id="474"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="7" frameNum="0"/>
+			<slidexml><AS3Class className="TL_1f5c7adca5dc495b82904ce7c3356c70yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="60" duration=" 12260">
+				<media url="a24x60.mp3" startMsecs="0" duration="12260" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Importing into Eclipse - Stock@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="60"/>
+		</slide>
+		<slide id="475" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="25.64" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide60.swf" id="475"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="14" frameNum="0"/>
+			<slidexml><AS3Class className="TL_c262f2935df4491a8f6c339de3b8d938yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="61" duration=" 25640">
+				<media url="a24x61.mp3" startMsecs="0" duration="25640" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@  Eclipse Import Products @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="61"/>
+		</slide>
+		<slide id="465" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="21.92" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide61.swf" id="465"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="14" frameNum="0"/>
+			<slidexml><AS3Class className="TL_6c475744b3634d5e938504365a8ac4e1yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="62" duration=" 21920">
+				<media url="a24x62.mp3" startMsecs="0" duration="21920" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@ Eclipse Import Products@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="62"/>
+		</slide>
+		<slide id="466" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="18.95" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide62.swf" id="466"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="14" frameNum="0"/>
+			<slidexml><AS3Class className="TL_6454584650644e378f4dbac8eb5deb9byxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="63" duration=" 18950">
+				<media url="a24x63.mp3" startMsecs="0" duration="18950" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@  Eclipse Import Products  @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="63"/>
+		</slide>
+		<slide id="467" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="7.43" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide63.swf" id="467"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="14" frameNum="0"/>
+			<slidexml><AS3Class className="TL_c5df7faca0504148963b7998d1c08aa0yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="64" duration=" 7430">
+				<media url="a24x64.mp3" startMsecs="0" duration="7430" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@ Eclipse Import Products@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="64"/>
+		</slide>
+		<slide id="416" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="11.89" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide64.swf" id="416"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="7" frameNum="0"/>
+			<slidexml><AS3Class className="TL_5a9d54a877b74dd8a1288705401c90d6yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="65" duration=" 11890">
+				<media url="a24x65.mp3" startMsecs="0" duration="11890" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Resources@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="65"/>
+		</slide>
+		<slide id="448" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="38.26" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide65.swf" id="448"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="14" frameNum="0"/>
+			<slidexml><AS3Class className="TL_4c2827377d8342538f2c8f807a556cf9yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="66" duration=" 38260">
+				<media url="a24x66.mp3" startMsecs="0" duration="38260" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Resources@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="66"/>
+		</slide>
+		<slide id="397" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="35.3" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide66.swf" id="397"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="19" frameNum="0"/>
+			<slidexml><AS3Class className="TL_95bd57efb6dc400184453566217b33ecyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="67" duration=" 35300">
+				<media url="a24x67.mp3" startMsecs="0" duration="35300" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Quick Facts@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="67"/>
+		</slide>
+		<slide id="371" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="882.8" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide67.swf" id="371"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="20" frameNum="0"/>
+			<slidexml><AS3Class className="TL_a96e85cf095d4a2aaac19e88e91ce395yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios id="68" duration=" 882800">
+				<media url="a24x68.mp3" startMsecs="0" duration="882800" startAtMSecs="0"/>
+			</audios>
+			<playbackActions></playbackActions>
+			<slideTitle>@Thank you@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="68"/>
+		</slide>
+		<slide id="423" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide68.swf" id="423"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="7" frameNum="0"/>
+			<slidexml><AS3Class className="TL_db100f64ac47479092e78d69040c4c31yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios duration="5000"/>
+			<playbackActions></playbackActions>
+			<slideTitle>@Backup@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="69"/>
+		</slide>
+		<slide id="425" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide69.swf" id="425"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="14" frameNum="0"/>
+			<slidexml><AS3Class className="TL_d564dffc41c6471884e91d03cf12b88cyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios duration="5000"/>
+			<playbackActions></playbackActions>
+			<slideTitle>@Identifying Deals that have HPE Negotiated Price Agreement@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="70"/>
+		</slide>
+		<slide id="426" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide70.swf" id="426"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="14" frameNum="0"/>
+			<slidexml><AS3Class className="TL_abb86b5ecfe04fb2b888edcbd80441b7yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios duration="5000"/>
+			<playbackActions></playbackActions>
+			<slideTitle>@Process Guidelines@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="71"/>
+		</slide>
+		<slide id="439" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<transition type="p:fade" spd="med" dur="1"/>
+			<content url="Slide71.swf" id="439"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="14" frameNum="0"/>
+			<slidexml><AS3Class className="TL_52e9271b9d494cac8ba8ac7dabab829eyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<audios duration="5000"/>
+			<playbackActions></playbackActions>
+			<slideTitle>@Channel Stock – Discount Now @</slideTitle>
+			<notes isHTML="true">&lt;TextFlow xmlns = "http://ns.adobe.com/textLayout/2008" fontFamily = "Verdana" fontSize = "9"&gt;&lt;p&gt;&lt;span &gt;Pam – Let&lt;/span&gt;&lt;span &gt; me know if you are able to demo this feature.  If not, we can cover in a munch &amp;amp; learn&lt;/span&gt;&lt;span &gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/TextFlow&gt;</notes>
+			<slideThumbnail url="thumb.swf" frame="72"/>
+		</slide>
+	</slides>
+	<attachments></attachments>
+</presentation>
